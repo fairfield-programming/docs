@@ -1,0 +1,5 @@
+site_name: FPA Documentation
+site_url: https://docs.fairfieldprogramming.org
+
+theme:
+  name: material
