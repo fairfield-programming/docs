@@ -3,3 +3,7 @@ site_url: https://docs.fairfieldprogramming.org
 
 theme:
   name: material
+
+nav:
+  - Home: index.md
+  - About: about.md
